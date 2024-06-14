@@ -1,7 +1,9 @@
 #支持指定架构
 # --platform=linux/arm64 1panel/maxkb:v1.2.1
+# ragflow镜像
 # infiniflow/ragflow:v0.7.0
-# mysql
-# bitnami/minio
-# redis
-docker.elastic.co/elasticsearch/elasticsearch:sha256-f455c50fb82017dae23878c1b12fb2188dfb984723d62db2c5bd0c1f78e246f0
+# ragflow依赖
+docker.elastic.co/elasticsearch/elasticsearch:${STACK_VERSION}
+mysql:5.7.18
+quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
+redis:7.2.4
