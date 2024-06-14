@@ -1,4 +1,5 @@
 # 仓库名
+maxkb
 ragflow
 # 支持指定架构
 --platform=linux/arm64
