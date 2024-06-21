@@ -10,3 +10,4 @@
 
 postgres:15-alpine
 ghcr.io/requarks/wiki:2
+artalk/artalk-go
