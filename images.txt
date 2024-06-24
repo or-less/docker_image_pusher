@@ -12,4 +12,7 @@
 # ghcr.io/requarks/wiki:2
 # artalk/artalk-go
 
-quay.io/minio/minio:RELEASE.2024-06-22T05-26-45Z
+# quay.io/minio/minio:RELEASE.2024-06-22T05-26-45Z
+
+gitea/gitea:1.22.0
+
