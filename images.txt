@@ -20,6 +20,6 @@
 # gitea/gitea:1.22.0
 
 # 导航页镜像
-soulteary/flare
+soulteary/flare:0.5.2
 
 
