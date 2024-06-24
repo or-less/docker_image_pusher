@@ -20,6 +20,9 @@
 # gitea/gitea:1.22.0
 
 # 导航页镜像
-soulteary/flare:0.5.2
+# soulteary/flare:0.5.2
+
+
+6053537/portainer-ce:2.19.5
 
 
