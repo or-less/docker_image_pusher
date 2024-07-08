@@ -23,6 +23,9 @@
 # soulteary/flare:0.5.2
 
 
-6053537/portainer-ce:2.19.5
+# docker看板
+#6053537/portainer-ce:2.19.5
 
-
+# wekan
+mongo:6
+ghcr.io/wekan/wekan:latest
