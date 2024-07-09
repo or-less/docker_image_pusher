@@ -27,5 +27,5 @@
 #6053537/portainer-ce:2.19.5
 
 # wekan
-mongo:6
-ghcr.io/wekan/wekan:latest
+# mongo:6
+ghcr.io/wekan/wekan:v7.51
