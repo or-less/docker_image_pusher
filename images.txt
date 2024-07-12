@@ -28,4 +28,6 @@
 
 # wekan
 # mongo:6
-ghcr.io/wekan/wekan:v7.51
+#ghcr.io/wekan/wekan:v7.51
+
+ghcr.io/requarks/wiki:3
