@@ -1,5 +1,5 @@
 # maxkb镜像
-1panel/maxkb:v1.3.0
+# 1panel/maxkb:v1.3.0
 
 # ragflow镜像
 # infiniflow/ragflow:v0.7.0
