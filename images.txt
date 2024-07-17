@@ -32,4 +32,4 @@
 
 # ghcr.io/requarks/wiki:3.0.0-alpha
 
-openproject/openproject:14.2
+openproject/openproject:14.2.1
