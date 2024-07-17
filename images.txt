@@ -30,6 +30,6 @@
 # mongo:6
 #ghcr.io/wekan/wekan:v7.45
 
-#ghcr.io/requarks/wiki:3.0.0-alpha
+# ghcr.io/requarks/wiki:3.0.0-alpha
 
 openproject/community:13.4.1
