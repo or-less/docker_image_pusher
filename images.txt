@@ -2,7 +2,7 @@
 # 1panel/maxkb:v1.3.0
 
 # ragflow镜像
-# infiniflow/ragflow:v0.7.0
+infiniflow/ragflow:v0.9.0
 # ragflow依赖
 # docker.elastic.co/elasticsearch/elasticsearch:8.11.3
 # mysql:5.7.18
@@ -32,4 +32,4 @@
 
 # ghcr.io/requarks/wiki:3.0.0-alpha
 
-openproject/openproject:14.2.1
+# openproject/openproject:14.2.1
