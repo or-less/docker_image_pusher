@@ -34,4 +34,4 @@
 
 # openproject/openproject:14.2.1
 
-nextcloud/all-in-one:latest
+nextcloud
